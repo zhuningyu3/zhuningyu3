@@ -1,6 +1,6 @@
 -
 
-- <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Hello World);Happy EveryDay🤗&center=true&size=27"> </a> </h1>
+- <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Hello World);Happy EveryDay&center=true&size=27"> </a> </h1>
     <a href="https://github.com/HIM198/computer-vision-in-action">
         <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
     </a>
