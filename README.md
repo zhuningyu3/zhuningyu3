@@ -14,4 +14,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuningyu3&layout=compact)
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuningyu3&layout=compact&hide_title=true&show_icons=trueline_height=21" />
