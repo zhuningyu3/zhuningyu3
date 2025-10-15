@@ -1,4 +1,4 @@
-## Hi, I'm InF👋
+## Hi, I'm Inf👋
 
 ## Or you can me zhuningyu(朱宁宇)🙌
 
