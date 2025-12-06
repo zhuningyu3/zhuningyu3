@@ -1,6 +1,6 @@
 ## Hi, I'm Inf👋
 
-## Or you can me zhuningyu(朱宁宇)🙌
+## Or you can call me chenx(陈限)🙌
 
 ---
 
