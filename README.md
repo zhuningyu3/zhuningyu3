@@ -1,6 +1,6 @@
 ## Hi, I'm Inf👋
 
-## Or you can call me chenx(陈限)🙌
+## Or you can call me Chenx(陈限)🙌
 
 ---
 
