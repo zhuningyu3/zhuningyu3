@@ -5,12 +5,11 @@
 ---
 
 - 🫨 Junior undergraduate in CS
-- 👏 FrontEnd / Javascript(TypeScript) / React
-- 🧑‍💻 InternShip : BiliBili -> ?
+- 👏 Agent / FrontEnd / Javascript(TypeScript) / React / Node
+- 🧑‍💻 InternShip : ？？？
 - 🤓 Animate / Movie / Novel
 - 🎮 game game game save the world!
 - 🙌 You can contact me by 2309269950@qq.com
-- 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
 
 ---
 
